@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-03-11
-img: boulder1.jpg
+img: boulder.png
 alt: boulders for sale
 project-date: March 2022
 client: Supliers of Outdoor Construction Materials Everywhere

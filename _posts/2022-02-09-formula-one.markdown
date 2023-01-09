@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2022-02-09
-img: formula_one.jpg
+img: car.png
 alt: image-alt
 project-date: February 2022
 client: Just for Fun

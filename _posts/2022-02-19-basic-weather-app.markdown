@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2022-02-19
-img: weather_app.jpg
+img: weather.png
 alt: image-alt
 project-date: February 2022
 client: Internet Users

@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 8
+modal-id: 3
 date: 2022-12-09
-img: flash_cards.png
+img: cards.png
 alt: flash-cards
 project-date: December 2022
 client: Me and fans of custom physical flash cards

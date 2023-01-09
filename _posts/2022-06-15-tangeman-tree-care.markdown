@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2022-06-15
-img: wartmania2.jpg
+img: tangeman.png
 alt: trees
 project-date: June 2022
 client: Dean Tangeman
